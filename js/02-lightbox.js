@@ -25,7 +25,7 @@ console.log(galleryRefs);
 })();
 
 const lightbox = new SimpleLightbox(".gallery a", {
-	overlay: false,
+	overlay: true,
 	captions: true,
 	captionsData: "alt",
 	closeText: "Close",
