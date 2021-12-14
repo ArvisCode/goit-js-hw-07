@@ -28,7 +28,7 @@ const lightbox = new SimpleLightbox(".gallery a", {
 	overlay: true,
 	captions: true,
 	captionsData: "alt",
-	closeText: "Close",
+	//closeText: "Close",
 	disableRightClick: true,
   
 });
